@@ -1,5 +1,5 @@
 # QUIZ com REACT
-> Criadores: Carlos Aguiar, Isabelle Pacheco e Stefany Lino
+> Criadores: Carlos Aguiar, Isabelle Pacheco e Stefany Lino<br>
 > O projeto conta com um jogo de perguntas e respostas interatito construído com React, com perguntas dentro da área de desenvolvimento de sistemas!
 
 ### Visão Geral
